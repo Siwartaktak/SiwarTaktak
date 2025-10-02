@@ -51,11 +51,7 @@ I'm a **final-year Data Science student at ESPRIT**, passionate about leveraging
 <div align="center">
 
 | 🤝 Teamwork | 🧠 Emotional Intelligence | 💡 Problem Solving |
-|## 💭 Quote of the Day
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</div>
 
 -------------|---------------------------|-------------------|
 | 🎯 Leadership | 🗣️ Communication | 🔄 Adaptability |
@@ -104,11 +100,6 @@ I'm a **final-year Data Science student at ESPRIT**, passionate about leveraging
 
 </div>
 
-## 💭 Quote of the Day
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</div>
 
 ---
 
