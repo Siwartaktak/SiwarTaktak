@@ -20,8 +20,6 @@ I'm a **final-year Data Science student at ESPRIT**, passionate about leveraging
 
 </div>
 
-> "The goal is to turn data into information, and information into insight." - Carly Fiorina
-
 ## 💼 Technical Skills
 
 <div align="center">
@@ -53,7 +51,13 @@ I'm a **final-year Data Science student at ESPRIT**, passionate about leveraging
 <div align="center">
 
 | 🤝 Teamwork | 🧠 Emotional Intelligence | 💡 Problem Solving |
-|-------------|---------------------------|-------------------|
+|## 💭 Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
+
+-------------|---------------------------|-------------------|
 | 🎯 Leadership | 🗣️ Communication | 🔄 Adaptability |
 | 📈 Analytical Thinking | 🤗 Social Intelligence | ⏰ Time Management |
 
@@ -88,7 +92,6 @@ I'm a **final-year Data Science student at ESPRIT**, passionate about leveraging
 - 🌱 Deepening my knowledge in **Deep Learning** and **Neural Networks**
 - 👯 Open to collaborate on **AI/ML projects** and **Data Analysis**
 - 💬 Ask me about **Machine Learning, Data Science, Python**
-- ⚡ Fun fact: I believe data tells stories that can change the world!
 
 ## 📫 Let's Connect!
 
@@ -97,7 +100,7 @@ I'm a **final-year Data Science student at ESPRIT**, passionate about leveraging
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siwar-taktak-872b30220/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://siwar-taktak-portfolio.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siwar.taktak@esprit.tn)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](YOUR_RESUME_LINK_HERE)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://github.com/Siwartaktak/SiwarTaktak.git)
 
 </div>
 
@@ -115,6 +118,4 @@ I'm a **final-year Data Science student at ESPRIT**, passionate about leveraging
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-  
-  ### ⭐ From [Siwartaktak](https://github.com/Siwartaktak) | Made with 💜 and ☕
 </div>
