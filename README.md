@@ -10,21 +10,17 @@
 
 I'm a **final-year Data Science student at ESPRIT**, passionate about leveraging data to solve real-world problems and create intelligent solutions. I combine technical expertise with strong interpersonal skills to deliver impactful projects.
 
-```python
-class SiwarTaktak:
-    def __init__(self):
-        self.name = "Siwar Taktak"
-        self.role = "Data Science Student"
-        self.education = "ESPRIT - Final Year"
-        self.location = "Tunisia"
-        self.interests = ["Machine Learning", "Deep Learning", "AI", "Data Analysis"]
-    
-    def say_hi(self):
-        print("Thanks for visiting! Let's connect and build something amazing together!")
+<div align="center">
 
-siwar = SiwarTaktak()
-siwar.say_hi()
-```
+🎓 **Education:** ESPRIT - Data Science Engineering  
+📍 **Location:** Tunisia  
+🔬 **Focus:** Machine Learning | Deep Learning | AI Solutions  
+💡 **Philosophy:** Turning complex data into actionable insights  
+🎯 **Goal:** Building intelligent systems that make a difference
+
+</div>
+
+> "The goal is to turn data into information, and information into insight." - Carly Fiorina
 
 ## 💼 Technical Skills
 
