@@ -51,8 +51,6 @@ I'm a **final-year Data Science student at ESPRIT**, passionate about leveraging
 <div align="center">
 
 | 🤝 Teamwork | 🧠 Emotional Intelligence | 💡 Problem Solving |
-
-
 -------------|---------------------------|-------------------|
 | 🎯 Leadership | 🗣️ Communication | 🔄 Adaptability |
 | 📈 Analytical Thinking | 🤗 Social Intelligence | ⏰ Time Management |
@@ -101,11 +99,7 @@ I'm a **final-year Data Science student at ESPRIT**, passionate about leveraging
 </div>
 
 
----
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Siwartaktak&color=6366f1&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
-</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
